@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_first_fragment"
+        android:icon="@android:drawable/btn_star"
+        android:title="First Fragment"/>
+
+    <item
+        android:id="@+id/menu_second_fragment"
+        android:icon="@android:drawable/btn_star"
+        android:title="Second Fragment"/>
+</menu>
